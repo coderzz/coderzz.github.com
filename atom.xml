@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://coderzz.github.io/atom.xml" rel="self"/>
   <link href="http://coderzz.github.io/"/>
-  <updated>2013-06-21T12:38:08+05:30</updated>
+  <updated>2013-06-21T13:01:10+05:30</updated>
   <id>http://coderzz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Summer Project]]></title>
+    <link href="http://coderzz.github.io/blog/2013/06/21/summer-project/"/>
+    <updated>2013-06-21T12:41:00+05:30</updated>
+    <id>http://coderzz.github.io/blog/2013/06/21/summer-project</id>
+    <content type="html"><![CDATA[<p>I am a student of Institute of Informatics and Communication(IIC), University of Delhi, South Campus. In our summer training we are working on projects in collaboration with National Informatic Centre(NIC).
+The project I would be working on has the following idea:</p>
+
+<p>&ndash;> India&rsquo;s rural areas do not have uniform access piped drinking water supply. In response to this the Center set up the National Rural Drinking Water Programme (NRDWP) which is responsible for funding and supporting infrastructure for piped water supply. They have a lot of data on their website and it is collected at the habitation level.</p>
+
+<p>&ndash;> This programme is also a prerequisite for other schemes. In order to have access to proper sanitation scheme benefits your habitation needs to have at least 70% covered with piped water supply.</p>
+
+<p>&ndash;> We want to create an algorithm that the Ministry and others can use that will alert people when a habitation has reached 70% coverage or above of piped water supply.
+This will allow us to track the progress and to ground the truth
+1) that in fact these places have achieved this milestone
+2) whether they are also getting access to other schemes that require piped water i.e. the sanitation scheme of Nirmal Bharat Abhiyan(NBA).</p>
+
+<hr />
+
+<p>This Idea was proposed by Nisha Thompson with the help of her colleague Amrtha.</p>
+
+<p>My team has contacted the idea person through mail to get a clear vision as to what we have to build and achieve.
+We have decided to have a meeting on skype.
+Lets see what comes out!!</p>
+
+<p>B.T.W we are still waiting for a mentor to be alloted to this idea so that we can work on the technical aspect of it.</p>
+]]></content>
+  </entry>
   
 </feed>
